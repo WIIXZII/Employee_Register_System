@@ -5619,11 +5619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RegisterImageEmployees\\WebRegisterImagesEmployyeeAPI\\WebRegisterImagesEmployyeeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ALLF\\public websie\\Employee_Register_System\\WebRegisterImagesEmployyeeAPI\\WebRegisterImagesEmployyeeAPI.csproj",
       "projectName": "WebRegisterImagesEmployyeeAPI",
-      "projectPath": "D:\\RegisterImageEmployees\\WebRegisterImagesEmployyeeAPI\\WebRegisterImagesEmployyeeAPI.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\ALLF\\public websie\\Employee_Register_System\\WebRegisterImagesEmployyeeAPI\\WebRegisterImagesEmployyeeAPI.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\RegisterImageEmployees\\WebRegisterImagesEmployyeeAPI\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\ALLF\\public websie\\Employee_Register_System\\WebRegisterImagesEmployyeeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
